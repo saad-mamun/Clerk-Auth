@@ -29,6 +29,7 @@ const Navbar = () => {
               <li>Home</li>
               <li>About</li>
               <li>Services</li>
+              <li>Profile</li>
               <li>Contact</li>
             </ul>
             <UserButton />
