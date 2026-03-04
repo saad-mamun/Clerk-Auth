@@ -18,7 +18,7 @@ const Navbar = () => {
           <SignedOut>
             <SignInButton />
             <SignUpButton>
-              <button className="bg-green-700 text-white rounded-xl font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 cursor-pointer">
+              <button className="bg-blue-500 text-white rounded-xl font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 cursor-pointer">
                 Sign Up
               </button>
             </SignUpButton>
