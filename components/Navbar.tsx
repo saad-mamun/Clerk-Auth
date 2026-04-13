@@ -30,6 +30,7 @@ const Navbar = () => {
               <li>About</li>
               <li>Services</li>
               <li>Contact</li>
+              <li>Profile</li>
             </ul>
             <UserButton />
           </SignedIn>
